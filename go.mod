@@ -5,7 +5,7 @@ go 1.27.0
 require (
 	github.com/alecthomas/kong v1.16.0
 	github.com/crossplane/crossplane-runtime/v2 v2.5.0
-	github.com/crossplane/crossplane/apis/v2 v2.5.0-rc.0.0.20261029180807-76a72bee8a19
+	github.com/crossplane/crossplane/apis/v2 v2.5.0
 	github.com/crossplane/function-sdk-go v0.7.1
 	github.com/gobuffalo/flect v1.0.3
 	github.com/google/go-cmp v0.7.0
@@ -18,7 +18,7 @@ require (
 	k8s.io/apiserver v0.37.3
 	k8s.io/client-go v0.37.3
 	k8s.io/kube-openapi v0.0.0-20260821135717-be32def86098
-	sigs.k8s.io/controller-runtime v0.25.2
+	sigs.k8s.io/controller-runtime v0.25.3
 	sigs.k8s.io/controller-tools v0.23.0
 )
 
